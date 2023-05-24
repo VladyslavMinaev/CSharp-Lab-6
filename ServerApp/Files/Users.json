@@ -1,0 +1,14 @@
+[
+  {
+    "Id": "ee6a2dac-5f8e-40a1-b688-5c275eb3ec14",
+    "Email": "user",
+    "Password": "0000",
+    "Token": "8de6d7a1-7d4d-46e2-b7cc-0c330d7bda34"
+  },
+  {
+    "Id": "98fd8358-4857-4a30-869a-bd5fe62c6104",
+    "Email": "user1",
+    "Password": "0000",
+    "Token": "e017d27c-e4ff-4283-83b4-9c4fe62f6052"
+  }
+]

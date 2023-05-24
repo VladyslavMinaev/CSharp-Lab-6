@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "myroom",
+    "PlacesAmount": 1,
+    "Price": 1222.34,
+    "BookedDates": [
+      {
+        "RoomName": "myroom",
+        "DateTime": "2023-05-23T00:00:00",
+        "UserId": "ee6a2dac-5f8e-40a1-b688-5c275eb3ec14"
+      }
+    ]
+  },
+  {
+    "Name": "myroom2",
+    "PlacesAmount": 2,
+    "Price": 3212.34,
+    "BookedDates": []
+  },
+  {
+    "Name": "myroom3",
+    "PlacesAmount": 5,
+    "Price": 10000.34,
+    "BookedDates": []
+  },
+  {
+    "Name": "myroom4",
+    "PlacesAmount": 1,
+    "Price": 5421.34,
+    "BookedDates": [
+      {
+        "RoomName": "myroom4",
+        "DateTime": "2023-05-26T00:00:00",
+        "UserId": "ee6a2dac-5f8e-40a1-b688-5c275eb3ec14"
+      }
+    ]
+  },
+  {
+    "Name": "myroom5",
+    "PlacesAmount": 4,
+    "Price": 1230.34,
+    "BookedDates": []
+  },
+  {
+    "Name": "myroom6",
+    "PlacesAmount": 3,
+    "Price": 463.34,
+    "BookedDates": []
+  }
+]
